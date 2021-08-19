@@ -1,0 +1,3 @@
+list
+NEWNEWS local.deporte 201203 140000
+quit

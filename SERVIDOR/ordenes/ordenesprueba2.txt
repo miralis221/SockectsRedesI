@@ -1,0 +1,4 @@
+list
+NEWNEWS local.redes 201203 140000
+NEWGROUPS 201203 140000
+quit

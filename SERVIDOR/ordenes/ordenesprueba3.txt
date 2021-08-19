@@ -1,0 +1,4 @@
+list
+NEWGROUPS 201130 000000
+post
+quit
